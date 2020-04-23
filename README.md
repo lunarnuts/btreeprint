@@ -3,7 +3,8 @@ a basic package that allows printing binary search trees horizontally
 Example:
 Before:
 
-```01
+```
+01
 └──07
    ├──12
    │  └──10
@@ -23,4 +24,4 @@ After:
    │        └──15
    └──05
       └──02
-         └──03```
+         └──03
