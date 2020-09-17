@@ -1,20 +1,9 @@
 # btreeprint
-a basic package that allows printing binary search trees horizontally
+a basic package that allows printing binary search trees
 Example:
 
 
 ```
-Before:
-01
-└──07
-   ├──12
-   │  └──10
-   └──05
-      └──02
-         └──03
-__________________
-
-After:
 
 01
 └──07
